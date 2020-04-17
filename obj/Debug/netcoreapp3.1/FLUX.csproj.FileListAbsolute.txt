@@ -1,0 +1,17 @@
+D:\Development\FLUXCS\FLUX\bin\Debug\netcoreapp3.1\FLUX.exe
+D:\Development\FLUXCS\FLUX\obj\Debug\netcoreapp3.1\FLUX.csprojAssemblyReference.cache
+D:\Development\FLUXCS\FLUX\obj\Debug\netcoreapp3.1\FLUX.AssemblyInfoInputs.cache
+D:\Development\FLUXCS\FLUX\obj\Debug\netcoreapp3.1\FLUX.AssemblyInfo.cs
+D:\Development\FLUXCS\FLUX\bin\Debug\netcoreapp3.1\DSharpPlus.dll
+D:\Development\FLUXCS\FLUX\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Development\FLUXCS\FLUX\obj\Debug\netcoreapp3.1\FLUX.csproj.CopyComplete
+D:\Development\FLUXCS\FLUX\bin\Debug\netcoreapp3.1\FLUX.deps.json
+D:\Development\FLUXCS\FLUX\bin\Debug\netcoreapp3.1\FLUX.runtimeconfig.json
+D:\Development\FLUXCS\FLUX\bin\Debug\netcoreapp3.1\FLUX.runtimeconfig.dev.json
+D:\Development\FLUXCS\FLUX\bin\Debug\netcoreapp3.1\FLUX.dll
+D:\Development\FLUXCS\FLUX\bin\Debug\netcoreapp3.1\FLUX.pdb
+D:\Development\FLUXCS\FLUX\bin\Debug\netcoreapp3.1\DSharpPlus.CommandsNext.dll
+D:\Development\FLUXCS\FLUX\obj\Debug\netcoreapp3.1\FLUX.csproj.CoreCompileInputs.cache
+D:\Development\FLUXCS\FLUX\obj\Debug\netcoreapp3.1\FLUX.dll
+D:\Development\FLUXCS\FLUX\obj\Debug\netcoreapp3.1\FLUX.pdb
+D:\Development\FLUXCS\FLUX\obj\Debug\netcoreapp3.1\FLUX.genruntimeconfig.cache
